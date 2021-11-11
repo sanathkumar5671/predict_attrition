@@ -1,2 +1,2 @@
-# predict_attrition
+# Predict Attrition
 Attrition prediction on a public dataset
