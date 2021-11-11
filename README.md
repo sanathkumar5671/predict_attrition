@@ -7,5 +7,8 @@ Step1: Download the kaggel dataset - https://www.kaggle.com/pavansubhasht/ibm-hr
 
 Step2: Run the Predict employee attrition.ipynb in jyputer notebook.
 
-Data Analysis:
+# Data Analysis
+
+![YesORNo](https://user-images.githubusercontent.com/67502681/141231614-de9fc4bb-7725-463f-af16-8b7f1f5cfea4.png)
+
 
