@@ -13,6 +13,10 @@ Step2: Run the Predict employee attrition.ipynb in jyputer notebook.
 
 AGE and ATTRITION
 
+![AnalysisByAge](https://user-images.githubusercontent.com/67502681/141231996-c200cb81-e847-48b9-8515-aa2ed5ceb98a.png)
+
+CORRELATION
+
 ![AttributeRelationShip](https://user-images.githubusercontent.com/67502681/141231812-962cb1f0-d376-4447-9f6b-8356caa5cefd.png)
 
 
