@@ -11,4 +11,8 @@ Step2: Run the Predict employee attrition.ipynb in jyputer notebook.
 
 ![YesORNo](https://user-images.githubusercontent.com/67502681/141231614-de9fc4bb-7725-463f-af16-8b7f1f5cfea4.png)
 
+AGE and ATTRITION
+
+![AttributeRelationShip](https://user-images.githubusercontent.com/67502681/141231812-962cb1f0-d376-4447-9f6b-8356caa5cefd.png)
+
 
